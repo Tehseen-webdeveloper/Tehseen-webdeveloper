@@ -35,8 +35,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Tehseen-webdeveloper/Tehseen-webdeveloper/output/snake.svg" alt="Snake animation" />
 
 ###
