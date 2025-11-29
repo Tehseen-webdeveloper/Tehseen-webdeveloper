@@ -64,3 +64,10 @@ Skilled in building complete web applications from frontend to backend with mode
 ---
 
 ⭐ **If you like my work, consider giving a star to the repositories!**
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Tehseen-webdeveloper/Tehseen-webdeveloper/output/snake.svg" alt="Snake animation" />
+
+###
