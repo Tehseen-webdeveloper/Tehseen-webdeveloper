@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Tehseenullah Afridi**
 
 <p align="center">
-  <img src="https://i.imgur.com/dRz5fJV.png" width="300" />
+  <img src="https://drive.google.com/file/d/1L2b61DdhqgyKJhnF5kJ2NbBCtdWfXHDZ/view?usp=drive_link" width="300" />
 </p>
 
 ## 🚀 Full Stack Web Developer
