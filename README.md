@@ -25,3 +25,18 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tehseen-webdeveloper&show_icons=true&locale=en" alt="tehseen-webdeveloper" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tehseen-webdeveloper&" alt="tehseen-webdeveloper" /></p>
+
+
+<br clear="both">
+
+<div align="right">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Tehseen-webdeveloper/Tehseen-webdeveloper/output/snake.svg" alt="Snake animation" />
+
+###
